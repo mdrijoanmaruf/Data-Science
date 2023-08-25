@@ -155,7 +155,6 @@ z = np.row_stack((a , b))           # semilar to vstack
 # concatinate:
 z = np.concatenate((a,b) , axis=1)  # axis 1 = horaizonal and azis 0 = vartical
 
-# Depth stack:
 
 
 
