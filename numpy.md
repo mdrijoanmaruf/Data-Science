@@ -8,6 +8,7 @@ import numpy as np
 ## Array Attribute :
 **1-D Array :**
 ```py
+a = np.array([1,2,3,4,5])
 type(a)             # numpy ndarray ---> numpy n dimantion array
 a.shape             # (5, )     ---> 5 coloms
 a.ndim
