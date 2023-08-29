@@ -1,4 +1,4 @@
-# C Programming Fundamental Note
+# C Programming Note
 ## Chapter 1 (variable , conctants) :
 ### Variable :
 ```c
